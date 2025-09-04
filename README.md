@@ -88,7 +88,7 @@ Team OSMAN Members: Kazi Rahima Ahmed, Md. Awsaf Iqbal Chowdhury, Methon Kumar B
 ---
 
 ## 👥 Built By TEAM OSMAN  
-A multidisciplinary student team at Daffodil International University combining expertise in *AI, **IoT, **embedded systems, and **sustainable design* to deliver a real-world solution for smart agriculture.
+A multidisciplinary student team at Daffodil International University combining expertise in *AI*, *IoT*, *embedded systems*, and *sustainable design* to deliver a real-world solution for smart agriculture.
 
 Special thanks to all team members for contributions across hardware integration, ML modeling, cloud automation, and field deployment.
 
