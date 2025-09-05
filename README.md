@@ -105,3 +105,15 @@ Let’s build something impactful—grounded in execution, not just ideas.
 
 📧 *Email:* [kazirahimaahmed@gmail.com](mailto:kazirahimaahmed@gmail.com)  
 🔗 *LinkedIn:* [linkedin.com/in/kazi-rahima-ahmed](https://linkedin.com/in/kazi-rahima-ahmed)
+
+---
+
+## 📜 License
+
+Licensed to **Team OSMAN** © 2025 — All Rights Reserved.
+
+This work and all associated files, documentation, and media are the property of **Team OSMAN**.  
+No part of this work may be copied, modified, distributed, or sold in any form or by any means without the prior written permission of **Team OSMAN**.
+
+Viewing of this repository is permitted for personal, non‑commercial purposes only.  
+Any other use of this work without prior written permission from **Team OSMAN** is strictly prohibited.
